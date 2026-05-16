@@ -1,0 +1,5 @@
+Input: -3/0
+Hash Table Size: 8
+
+Queue: [-3, /, 0]
+Postfix: [-3, 0, /]
